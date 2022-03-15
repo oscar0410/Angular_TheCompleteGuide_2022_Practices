@@ -25,3 +25,10 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+## Log 記錄
+* 建立Component
+  * 手動建立
+  * `ng generate component` <component_name>
+  * `ng g c` <component_name>
