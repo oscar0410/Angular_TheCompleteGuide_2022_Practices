@@ -32,3 +32,10 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
   * 手動建立
   * `ng generate component` <component_name>
   * `ng g c` <component_name>
+
+* Data-binding
+  * 插植表示式
+    * 可以綁定 `值`, 也可以綁定`方法`
+  * 屬性綁定
+  * 事件綁定
+  * ngModule綁定
